@@ -12,6 +12,11 @@ Install Django (Make sure you have Python 3 installed):
 $ pip install Django==2.1.2
 ```
 
+Migrate Database:
+```sh
+$ python3 manage.py migrate
+```
+
 ## Usage
 Run server:
 ```sh
