@@ -14,6 +14,7 @@ $ pip install Django==2.1.2
 
 Migrate Database:
 ```sh
+$ cd lrn-deep
 $ python3 manage.py migrate
 ```
 
